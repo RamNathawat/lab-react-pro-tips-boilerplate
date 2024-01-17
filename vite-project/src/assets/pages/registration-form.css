@@ -1,0 +1,36 @@
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40vw; 
+}
+
+.inputs {
+  width: 350px;
+  height: 40px;
+  margin: 2% 0;
+  font-size: larger;
+  padding-left: 2%;
+}
+
+#reg-button {
+  background-color: green;
+  margin: 2% 0;
+  
+}
+
+.phone-number {
+  display: inline;
+}
+
+.registration-success {
+  border: 1px solid grey; 
+  background-color: #41A564;
+  border-radius: 2px;
+  margin-left: 40vw;
+  display: flex;
+  text-align: center;
+  justify-content: center; 
+  align-items: center;
+}
